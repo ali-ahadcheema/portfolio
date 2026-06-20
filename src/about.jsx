@@ -11,12 +11,12 @@ export default function About(){
  
 </div>
 <h1 className="text-5xl text-white font-bold mt-3 ">About Me</h1>
-<p className="text-gray-300 mt-4 sm:text-sm">I'm <span className="text-white font-bold">ALI AHAD</span>, doing bachelor in IT and React Native<br/>
-specialist who crafts production-ready web applications.<br/>
- I've built real-world web apps  streaming, e-<br/>
- commerce, pet communities, and veterinary AI detection.<br/>
+<p className="text-gray-300 mt-4 sm:text-sm">I'm <span className="text-white font-bold">ALI AHAD</span>, doing bachelor in IT and specializing in React.js and MERN Stack development<br/>
+I build modern responsive and production-ready web, <br/>
+applications with a focus on performance, scalability, and user experience. <br/>
+ I've developed real-world projects including e-commerce platforms, blog applications etc.<br/>
  <br/>
- I work across the full stack from pixel-perfect mobile UIs to<br/>
+ I work across the full stack application implementing authentication  to<br/>
  REST APIs, databases. I love solving complex problems end-to-<br/>
    end and shipping experiences that users actually enjoy.<br/>
    <br/>
